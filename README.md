@@ -30,15 +30,18 @@ Built with Python, the application fetches target URLs using custom headers to b
 * **The project dependencies listed in requirements.txt.**
 
 ### Installation
-Clone the repository:
-git clone [https://github.com/KaramNanneh/telegram-price-monitor.git](https://github.com/KaramNanneh/telegram-price-monitor.git)
+### 1. Clone the repository:
+```
+git clone [https://github.com/KaramNanneh/telegram-price-monitor.git](https://github.com/KaramNanneh/telegram-price-monitor.git) 
 cd telegram-price-monitor
-
-Install the Python dependencies:
+```
+### 2. Install the Python dependencies:
+```
 pip install -r requirements.txt
+```
+### 3. Open monitor.py and input your credentials and target item:
+### Insert your Telegram Bot Token.
+### Insert your Telegram Chat ID.
+### Set your TARGET_URL and desired TARGET_PRICE.
 
-Open monitor.py and input your credentials and target item:
-Insert your Telegram Bot Token.
-Insert your Telegram Chat ID.
-Set your TARGET_URL and desired TARGET_PRICE.
-ENJOY!
+### ENJOY!
