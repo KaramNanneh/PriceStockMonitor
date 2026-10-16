@@ -40,8 +40,8 @@ cd telegram-price-monitor
 pip install -r requirements.txt
 ```
 ### 3. Open monitor.py and input your credentials and target item:
-### Insert your Telegram Bot Token.
-### Insert your Telegram Chat ID.
-### Set your TARGET_URL and desired TARGET_PRICE.
+Insert your Telegram Bot Token.
+Insert your Telegram Chat ID.
+Set your TARGET_URL and desired TARGET_PRICE.
 
 ### ENJOY!
