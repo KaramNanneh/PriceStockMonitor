@@ -25,9 +25,9 @@ Built with Python, the application fetches target URLs using custom headers to b
 ![Telegram Alert](docs/screenshots/telegram-alert.png)
 
 ## Getting Started
-### -Python installed on your computer.
-### -A Telegram account to configure your bot and retrieve your chat ID.
-### -The project dependencies listed in requirements.txt.
+-Python installed on your computer.
+-A Telegram account to configure your bot and retrieve your chat ID.
+-The project dependencies listed in requirements.txt.
 
 ### Installation
 Clone the repository:
