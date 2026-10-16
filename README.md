@@ -19,10 +19,10 @@ Built with Python, the application fetches target URLs using custom headers to b
 ## Application Preview
 
 ### 1. Terminal Execution & Debug Log
-![Terminal Execution](docs/screenshots/terminal-log.png)
+![Terminal Execution](screenshots/terminal-log.png)
 
 ### 2. Telegram Phone Notification
-![Telegram Alert](docs/screenshots/telegram-alert.png)
+![Telegram Alert](screenshots/telegram-alert.jpg)
 
 ## Getting Started
 * **Python installed on your computer.**
